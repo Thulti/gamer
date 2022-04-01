@@ -1,0 +1,9 @@
+{
+	"ip":"EAMFVR.aternos.me",
+	"port": 54524,
+	"name": "noob",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (ayan) (ayan)",
+	"login-cmd":"/login (ayan)"
+}
